@@ -10,7 +10,7 @@ export const Portfolio = () => {
           <Image
             src='https://images.unsplash.com/photo-1532712938310-34cb3982ef74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
             alt='/'
-            layout='responsive'
+            className='responsive'
             width='677'
             height='451'
           />
@@ -21,8 +21,7 @@ export const Portfolio = () => {
             alt='/'
             width='215'
             height='217'
-            layout='responsive'
-            className='cover'
+            className='responsive cover'
           />
         </div>
         <div className='w-full h=full'>
@@ -31,8 +30,7 @@ export const Portfolio = () => {
             alt='/'
             width='215'
             height='217'
-            layout='responsive'
-            className='cover'
+            className='responsive cover'
           />
         </div>
         <div className='w-full h=full'>
@@ -41,8 +39,7 @@ export const Portfolio = () => {
             alt='/'
             width='215'
             height='217'
-            layout='responsive'
-            className='cover'
+            className='responsive cover'
           />
         </div>
         <div className='w-full h=full'>
@@ -51,8 +48,7 @@ export const Portfolio = () => {
             alt='/'
             width='215'
             height='217'
-            layout='responsive'
-            className='cover'
+            className='responsive cover'
           />
         </div>
       </div>
