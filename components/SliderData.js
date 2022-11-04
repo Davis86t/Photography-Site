@@ -1,22 +1,24 @@
+import family from '../public/images/slider/christmasFam.jpg'
+import picnic from '../public/images/slider/picnic.jpg'
+import pierFriends from '../public/images/slider/pierFriends.jpg'
+import sledKids from '../public/images/slider/sledKids.jpg'
+import sunflowerFriends from '../public/images/slider/sunflowerFriends.jpg'
+
+
 export const SliderData = [
   {
-    image:
-      'https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2VkZGluZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60',
+    image: family,
   },
   {
-    image:
-      'https://images.unsplash.com/photo-1643818657367-491080baeece?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZmFtaWx5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60',
+    image: picnic,
   },
   {
-    image:
-      'https://images.unsplash.com/photo-1561525140-c2a4cc68e4bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGZhbWlseXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60',
+    image: pierFriends,
   },
   {
-    image:
-      'https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2Fyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60',
+    image: sledKids,
   },
   {
-    image:
-      'https://images.unsplash.com/photo-1642709752700-5316638cae99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHNob3clMjB0cnVja3N8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60',
+    image: sunflowerFriends,
   },
 ]
